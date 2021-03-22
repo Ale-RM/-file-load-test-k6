@@ -8,12 +8,12 @@ export let options = {
     maxRedirects: 0,
  stages: [
 
-    { target: 30, duration: '3m' },
+    { target: 15, duration: '3m' },
 
-    { target: 70, duration: '3' },
+    { target: 25, duration: '3' },
 
 
-    { target: 100, duration: '3m' },
+    { target: 35, duration: '3m' },
 
     { target: 0, duration: '3m' },
 
